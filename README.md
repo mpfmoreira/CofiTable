@@ -1,3 +1,3 @@
-# project0
+za# project0
 A partir do curso Web CS50.
-Quanta baboseira!
+Quanta beleza!
